@@ -7,18 +7,15 @@ myself. :)\
 \
 \
 \
-FEATURES\
+FEATURES
 1. AIMBOT
 
 -   on/off toggle
 
 -   fov slider
 
--   draw crosshair\
+-   draw crosshair
 
-
-```
-```
 2. ESP
 -   box esp
 
@@ -43,17 +40,17 @@ FEATURES\
 
 5.  Click the "LAUCH GAME" button
 
-6.  Once the game opens toggle the menu on and off with F1\
+6.  Once the game opens toggle the menu on and off with F1
     \
     \
     \
-    DISCLAIMER\
+    DISCLAIMER
     This cheat is for educational purposes only. Using cheats in online
     games may violate the terms of service of the respective game and
     can lead to penalties or bans. Use at your own risk.\
     \
-    CONTRIBUTE\
+    CONTRIBUTE
     Contributions are welcome! If you have any ideas for new features,
     improvements, or bug fixes, feel free to open an issue or submit a
-    pull request.\
+    pull request.
     \
