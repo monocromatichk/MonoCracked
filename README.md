@@ -15,11 +15,11 @@ FEATURES\
 -   fov slider
 
 -   draw crosshair\
-    2. ESP
 
-```{=html}
-<!-- -->
+
 ```
+```
+2. ESP
 -   box esp
 
 -   skeleton esp
@@ -56,5 +56,4 @@ FEATURES\
     Contributions are welcome! If you have any ideas for new features,
     improvements, or bug fixes, feel free to open an issue or submit a
     pull request.\
-    \
     \
